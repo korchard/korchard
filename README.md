@@ -9,5 +9,6 @@ Feel free to reach out to me via
   - Email - email: kimberly.a.orchard@gmail.com 
 
 - ⚡ Fun fact: My pup's name is Sir David Attenbowwow. He's an environmental pup changing the world through soil churning and fertilization. 
-<img src="Davey.JPG" alt="Davey">
+![Image of Davey](Davey.JPG)
+
 
