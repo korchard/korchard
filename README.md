@@ -2,7 +2,7 @@
 
 <h3>She/Her pronouns</h3>
 
-<p>I am a Software Engineer full of -Knowledge -Innovation -Motivation! I would love to collaborate with others around programming light installations, robot avatars, and other out-of-the-box projects. I would also love to have a conversation around using code in creative ways and would be curious to learn even more posibilities. Let's connect and see what we can create!</p>
+<p>I am a Software Engineer full of -Knowledge -Innovation -Motivation! I would love to collaborate with others, and have a conversation around using code in creative ways, and learning from you. Let's connect and see what we can create!</p>
 
 <h3>What I am working on now:</h3>
 <ul>
