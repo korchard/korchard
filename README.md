@@ -17,7 +17,7 @@
 </ul>
 <h3>My portfolio</h3>
 <ul>
-  <li><a href="https://kimberlyorchard.me">My website</a></li>
+  <li><a href="https://kimberlyorchard.me">Check it Out!</a></li>
 </ul>
 
 
