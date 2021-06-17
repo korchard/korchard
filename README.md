@@ -2,7 +2,7 @@
 
 <h3>She/Her pronouns</h3>
 
-<p>I am a Software Engineer full of -Knowledge -Innovation -Motivation! I would love to collaborate with others, and have a conversation around using code in creative ways, and learning from you. Let's connect and see what we can create!</p>
+<p>I am a Software Engineer full of -Knowledge -Innovation -Motivation! I would love to collaborate with you, have a conversation around using code in creative ways, and learn from you. Let's connect and see what we can create!</p>
 
 <h3>What I am working on now:</h3>
 <ul>
@@ -15,6 +15,9 @@
   <li>LinkedIn - <a href="https://www.linkedin.com/in/kimberly-orchard-she-her">LinkedIn</a></li>
   <li>Email - kimberly.a.orchard@gmail.com</li>
 </ul>
-
+<h3>My portfolio</h3>
+<ul>
+  <li><a> href="https://kimberlyorchard.me"></li>
+</ul>
 
 
