@@ -6,18 +6,13 @@
 
 <h3>What I am working on now:</h3>
 <ul>
-  <li>personal website</li>
-  <li>learning about the Internet of Things</li>
-  <li>Harvard's CS50 course</li>
+  <li>Learning Kubernetes</li>
+  <li>Learning Python</li>
 </ul>
 <h3>Feel free to reach out to me via</h3>
 <ul>
   <li>LinkedIn - <a href="https://www.linkedin.com/in/kimberly-orchard-she-her">LinkedIn</a></li>
   <li>Email - kimberly.a.orchard@gmail.com</li>
-</ul>
-<h3>My portfolio</h3>
-<ul>
-  <li><a href="https://kimberlyorchard.me">Check it Out!</a></li>
 </ul>
 
 
