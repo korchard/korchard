@@ -7,7 +7,8 @@
 <h3>What I am working on now:</h3>
 <ul>
   <li>Learning Kubernetes</li>
-  <li>Learning Python</li>
+  <li>Learning AI/ML</li>
+  <li>Building a website for my dog</li>
 </ul>
 <h3>Feel free to reach out to me via</h3>
 <ul>
