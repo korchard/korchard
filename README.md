@@ -8,7 +8,7 @@
 <ul>
   <li>Learning Kubernetes</li>
   <li>Learning AI/ML</li>
-  <li>Building a react website for my dog - Sir David Attenbowwow</li>
+  <li>Building a React website for my dog - Sir David Attenbowwow</li>
 </ul>
 <h3>Feel free to reach out to me via</h3>
 <ul>
