@@ -10,7 +10,7 @@
   <li>Learning AI/ML</li>
   <li>Building a React website for my dog - Sir David Attenbowwow</li>
 </ul>
-<h3>Feel free to reach out to me via</h3>
+<h3>Feel free to reach out to me via:</h3>
 <ul>
   <li>LinkedIn - <a href="https://www.linkedin.com/in/kimberly-orchard-she-her">LinkedIn</a></li>
   <li>Email - kimberly.a.orchard@gmail.com</li>
